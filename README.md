@@ -1,4 +1,4 @@
-# reqwest.d.ts
+# react-winjs.d.ts
 
 An ambient Typescript/Typings definition for [https://github.com/winjs/react-winjs](ReactWinJS).
 
