@@ -1,6 +1,6 @@
 declare module "react-winjs"
 {
-    import React from "react";
+    import * as React from "react";
     
     interface WinJSComponent<T> extends React.Props<T>
     {
